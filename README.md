@@ -6,4 +6,4 @@ In this module I am taught of the basics pertaining to: <br>
 3. Implementing validations for creating users and microposts. <br>
 4. Finally, uploading the app to Heroku. <br>
 <hr>
-preview: https://ancient-mountain-87246.herokuapp.com/
+preview: <a href="https://radiant-garden-98187.herokuapp.com/">Heroku</a>
